@@ -1,4 +1,4 @@
-\# Cryptography---19CS412-classical-techqniques
+## Cryptography-Classical-Techqniques
 # Caeser Cipher
 Caeser Cipher using with different key values
 
@@ -98,7 +98,8 @@ int main() {
 ```
 ## OUTPUT:
 
-![Screenshot 2024-09-02 181906](https://github.com/user-attachments/assets/03514400-89c7-4bed-bca4-9e192d13b494)
+![Screenshot 2024-09-02 194434](https://github.com/user-attachments/assets/9f7cba2f-5c43-4c5e-a724-5ff116a23022)
+
 
 ## RESULT:
 The program for Caeser Cipher is executed successfully
@@ -291,8 +292,8 @@ int main() {
 }
 ```
 ## OUTPUT:
+![Screenshot 2024-09-02 194517](https://github.com/user-attachments/assets/586366a1-471d-4042-8a00-9ec60709ed6b)
 
-![Screenshot 2024-09-02 182531](https://github.com/user-attachments/assets/045aa4e2-17b1-4298-93ff-19b562749a44)
 
 
 ## RESULT:
@@ -377,7 +378,7 @@ int main() {
     char dec[1000] = "";
     int n;
 
-    strcpy(msg, "AAKASHRAJ");
+    strcpy(msg, "Jayavarthan");
     printf("Input message : %s\n", msg);
 
     // Convert the input message to uppercase
@@ -424,8 +425,8 @@ int main() {
 }
 ```
 ## OUTPUT:
+![Screenshot 2024-09-02 194551](https://github.com/user-attachments/assets/210684a8-c581-4236-a3cb-92e64f8f3a28)
 
-![Screenshot 2024-09-02 182843](https://github.com/user-attachments/assets/c3c489aa-71e7-4325-805b-187d7105aea2)
 
 ## RESULT:
 The program Hill Cipher is executed successfully
@@ -536,8 +537,8 @@ void decipher() {
 }
 ```
 ## OUTPUT:
+![Screenshot 2024-09-02 194735](https://github.com/user-attachments/assets/f02c0011-e72a-4c81-ad5a-1e18153d90fd)
 
-![Screenshot 2024-09-02 183310](https://github.com/user-attachments/assets/1f5db753-5631-43d7-b32e-e6aff736843d)
 
 ## RESULT:
 The program Vigenere Cipher is executed successfully
@@ -679,8 +680,8 @@ int main() {
 
 ```
 ## OUTPUT:
+![Screenshot 2024-09-02 194803](https://github.com/user-attachments/assets/d4f2a1d2-9a54-48b2-82cb-674249a904eb)
 
-![Screenshot 2024-09-02 183514](https://github.com/user-attachments/assets/4f1a8c70-cd66-4b66-8cb6-a2eeb5de1b0d)
 
 ## RESULT:
 The program Rail Fence Cipher is executed successfully
